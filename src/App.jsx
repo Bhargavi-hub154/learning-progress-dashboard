@@ -1,9 +1,8 @@
-import React from 'react'
 
-export default function App() {
-  return (
-    <div>App
-
+export default function App(){
+  return(
+    <div>
+      <p>Sathvika</p>
     </div>
-  )
+  );
 }
